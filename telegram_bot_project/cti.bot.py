@@ -6,7 +6,7 @@ from telegram import ReplyKeyboardMarkup, Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
 
 EXCEL_URL = "https://raw.githubusercontent.com/ctib0t/telegram-student-bot/main/استفسارات1.xlsx"
-BOT_TOKEN = "7754449632:AAH4T2M0whKVn13bUUNamgyTTLwj7Fu1y3k"
+BOT_TOKEN = ""
 
 qa_dict = {}
 
